@@ -1,3 +1,17 @@
+# Daily Life Expense Tracker
+### [Live Site](https://expensetrackerz.herokuapp.com/)
+
+![daily](https://i.ibb.co/ZxhFNp6/Capture.png)
+
+
+## Introduction
+This is a code repository for the corresponding daily life expense tracking. 
+
+In this repository, we're going to build a fully functional daily life expense tracking application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,chatjs for amazing graph design , speechly  and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
